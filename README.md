@@ -166,7 +166,7 @@ python3 gui2.py
 ```
 The next window will appear on your computer. 
 
-<img src="main_window.png" width="500" height="500">
+<img src="GUIpics/main_window.png" width="500" height="500">
 
 We can see a the window divided into two frames. On the left frame we will have a list with the files on the specified directory. Then there is a Clean button to restore all the options on the right and the Run program! button to launch the request. If we take a look on the right frame we can see the different options the user can specify. We can chech the optimize en verbose checkboxes, enter the maximum desired files, browse to choose the output directory and finally an Entry to specify the stoichiometry of the desired macrocomplex. 
 
@@ -174,19 +174,19 @@ Finally looking at the upper part of the app there is the menu, with two main pa
 
 | *Folder/File Opts* | *Help Menu* |
 | :---: | :---: |
-| <img src="File_menu.png" width="500" height="400"> | <img src="Help_menu.png" width="500" height="400"> |
+| <img src="GUIpics/File_menu.png" width="500" height="400"> | <img src="GUIpics/Help_menu.png" width="500" height="400"> |
 
 If we click on the option Select Folder from the Folder/File Opts, a window will appear for selecting the desired folder with the PDB input files. Once specified, on the left frame we will see a list of those files. 
 
 | *Selecting the input folder* | *List with input files* |
 | :---: | :---: |
-| <img src="selection_folder.png" width="500" height="400"> | <img src="list_files.png" width="500" height="400"> |
+| <img src="GUIpics/selection_folder.png" width="500" height="400"> | <img src="GUIpics/list_files.png" width="500" height="400"> |
 
 Then sepecifiying the desired options, we can click on the "Show options" button to see a summary of the different options. 
 
 | *Specified options* | *Messagebox* |
 | :---: | :---: |
-| <img src="options.png" width="500" height="400"> | <img src="messagebox.png" width="400" height="200"> |
+| <img src="GUIpics/options.png" width="500" height="400"> | <img src="GUIpics/messagebox.png" width="400" height="200"> |
 
 ### Next steps
 
