@@ -53,6 +53,7 @@ The directory SBI-Project contains the following files and directories:
 * example1, example2 and example3: directories with several PDB files that serve as examples of input to the programme,  as we will see later.
 * complexes: an empty folder where the created complexes will be saved.
 * raw_pdbs: the raw PDB files from which we extracted the example pairwise interactions.
+* gui2.py
 
 ## General Information
 ### Input Files
