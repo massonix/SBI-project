@@ -41,7 +41,7 @@ Given a set of interacting pairs (prot-prot), reconstruct the complete macrocomp
 
 **RECOMENDED**
 
- You can download our package using Git with the next command. We also recommend to create a directory named "complexes":
+ You can download our package using Git with the next command. We also recommend creating a directory named "complexes":
  
  ```bash
   git clone https://github.com/massonix/SBI-project.git
